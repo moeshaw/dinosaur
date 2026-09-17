@@ -1,0 +1,11 @@
+## branch exist locally 
+$ git branch -a
+* chapter-1
+  master
+  remotes/origin/chapter-1
+  remotes/origin/master
+
+## branch relationships
+$ git branch -vv
+* chapter-1 a473e95 [origin/chapter-1]  create section-1.txt added 1 paragragraph with source
+  master    8016e21  created and modified README.md
